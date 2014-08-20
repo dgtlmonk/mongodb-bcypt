@@ -1,8 +1,6 @@
 {
   "devDependencies": {
     "bcrypt": "^0.8.0",
-    "bcrypt-nodejs": "0.0.3",
-    "install": "^0.1.7",
     "mongoose": "^3.8.15"
   }
 }
